@@ -1,0 +1,6 @@
+snowflake-snowpark-python[pandas]
+streamlit
+openai==0.27.8
+pandas
+fpdf2
+plotly
